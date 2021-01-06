@@ -2,7 +2,7 @@
 
 Hi happy visitor (or awesome customer).
 
-Welcome to [Bayat Games](https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=relevance/query=publisher:26641) Customer Support.
+Welcome to [GreenTreeTeam](https://github.com/GreenTreeTeam) Customer Support.
 
 Here we provide support for our products on GitHub and Asset Store, you can contact us via the email or any other way you like. We recommend email for requesting Support.
 
@@ -10,17 +10,17 @@ Here we provide support for our products on GitHub and Asset Store, you can cont
 
 Delays in response is because of **Time Locations** and some **special cases**, so accept our apologies for inconveniences.
 
-For faster replies please [Contact us via Email](mailto:hasanbayat1393@gmail.com).
+For faster replies please [Contact us via Email](mailto:greentreeteamsupport@gmail.com).
 
 ## Submit an Issue
 
-Easily [file an issue here](https://github.com/BayatGames/Support/issues/new), but make sure the issue does not exists.
+Easily [file an issue here](https://github.com/GreenTreeTeam/Support/issues/new), but make sure the issue does not exists.
 
 ## Join Us
 
 Join our Community to get support and feedback:
 
-- [Join our Discord Server](https://discord.gg/HWMqD7T)
+- [Join our Discord Server](https://discord.gg/cCQZWSEmxX)
 - [Join our Slack Team](https://publicslack.com/slacks/bayatgames/invites/new)
 - [Join our Gitter Channel](https://gitter.im/BayatGames)
 - [Join our Google Group](https://groups.google.com/forum/#!forum/bayatgames)
@@ -32,37 +32,35 @@ Join our Community to get support and feedback:
 
 Follow our news and updates, We recommend email for requesting Support:
 
-- [:rocket: Patreon](https://www.patreon.com/BayatGames)
-- [:notebook: Check out our development board](https://trello.com/bayatgames)
-- [Medium Publication](https://medium.com/bayat-games)
+- [:rocket: Patreon](https://www.patreon.com/GreenTreeTeam)
+- [:notebook: Check out our development board](https://trello.com/greentreeteam)
+- [Medium Publication](https://medium.com/greentreeteam)
 - [Telegram Channel](https://t.me/BayatGamesChannel)
 - [Telegram Group](https://t.me/joinchat/Fs19FRGR5QLPrgpb0_7hGQ)
-- [Slack Team](https://bayatgames.slack.com)
-- [Gitter Channel](https://gitter.im/BayatGames)
-- [Twitter (Bayat Games)](https://twitter.com/BayatGames)
-- [Twitter (Hasan Bayat)](https://twitter.com/EmpireWorld1393)
+- [Slack Team](https://greentreeteam.slack.com)
+- [Gitter Channel](https://gitter.im/GreenTreeTeam)
+- [Twitter (GreenTreeTeam)](https://twitter.com/GreenTreeTeam)
 - [Google+ Page](https://plus.google.com/b/108298844570477540858/108298844570477540858)
 - [Google+ Community](https://plus.google.com/communities/108974587311747022650)
 - [Google Group](https://groups.google.com/forum/#!forum/bayatgames)
 - [Google Chat](https://hangouts.google.com/group/6bqlVL54C7avYPUs2)
-- [Facebook Page](https://www.facebook.com/BayatGames)
-- [Facebook Group](https://www.facebook.com/groups/bayatgames/)
-- [Instagram](https://www.instagram.com/gamesbayat/)
-- [Twitch.tv](https://www.twitch.tv/bayatgames)
-- [Tumblr](https://bayatgames.tumblr.com)
-- [Discord](https://discordapp.com/channels/307041709701988352/307041709701988352)
+- [Facebook Page](https://www.facebook.com/GreenTreeTeam)
+- [Facebook Group](https://www.facebook.com/groups/greentreeteam/)
+- [Instagram](https://www.instagram.com/greentreeteam/)
+- [Twitch.tv](https://www.twitch.tv/greentreeteam)
+- [Tumblr](https://greentreeteam.tumblr.com)
+- [Discord](https://discord.gg/cCQZWSEmxX)
 - [YouTube](https://www.youtube.com/channel/UCDLJbvqDKJyBKU2E8TMEQpQ)
-- [Reddit](https://www.reddit.com/r/bayatgames)
-- [Itch.io](https://bayat.itch.io/)
+- [Reddit](https://www.reddit.com/r/greentreeteam)
+- [Itch.io](https://greentreeteam.itch.io/)
 - [LinkedIn Company Page](https://www.linkedin.com/company/18202318/)
 - [Pinterest](https://www.pinterest.com/BayatGames/)
 - [Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:26641)
 - [Skype Group](https://join.skype.com/b7WWUH5oemfr)
-- [Skype (Hasan Bayat)](https://join.skype.com/invite/Hrg8ScgBmRb9)
-- [:e-mail: Email us (hasanbayat1393@gmail.com)](mailto:hasanbayat1393@gmail.com)
+- [:e-mail: Email us (greentreeteamsupport@gmail.com)](mailto:greentreeteamsupport@gmail.com)
 
 ## License
 
-MIT @ [Bayat Games](https://github.com/BayatGames)
+MIT @ [GreenTreeTeam](https://github.com/GreenTreeTeam)
 
-Made with :heart: by [Bayat Games](https://github.com/BayatGames)
+Made with :heart: by [GreenTreeTeam](https://github.com/GreenTreeTeam)
