@@ -29,7 +29,7 @@ Follow our news and updates:
 Help us by donation, This would help us to pay hosting bills and improve our projects.
 We will really thank you for donating us :)
 
-- [Ethereum/ERC-20](0x310F6b7625DD1f48f99f0d7daFBF43B8893545ba) | 0x310F6b7625DD1f48f99f0d7daFBF43B8893545ba
+  - Ethereum: `0x310F6b7625DD1f48f99f0d7daFBF43B8893545ba`
 
 ## Website
 - [GreenTree Official Website](https://greentree.team/)
