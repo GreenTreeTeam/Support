@@ -12,7 +12,7 @@ Easily [file an issue here](https://github.com/GreenTreeTeam/Support/issues/new)
 
 ## Join Us
 
-Join our Community to get support and feedback or Join, work with us and support open source:
+Join our Community to get support, work with us and support open source:
 
 - [Join our Discord Server](https://discord.gg/TGk95ptrf2)
 
