@@ -3,12 +3,12 @@
 Hello there,
 Welcome to [GreenTreeTeam](https://github.com/GreenTreeTeam) Support.
 
-Here we provide support for our products on GitHub and Asset Store.
+We provide support for our products on GitHub and Asset Store.
 We recommend to reach us via [Whatsapp](https://wa.me/message/5ODUV7GZGPIDP1) for requesting very urgent support.
 
 ## Submit an Issue
 
-Easily [file an issue here](https://github.com/GreenTreeTeam/Support/issues/new), but make sure the issue does not exists.
+[File an issue here](https://github.com/GreenTreeTeam/Support/issues/new), but make sure the issue does not exists.
 
 ## Join Us
 
@@ -29,7 +29,7 @@ Follow our news and updates:
 Help us by donation, This would help us to pay hosting bills and improve our projects.
 We will really thank you for donating us :)
 
-  - Ethereum: `0x310F6b7625DD1f48f99f0d7daFBF43B8893545ba`
+- [Ethereum-Polygon](https://polygonscan.com/address/0xc53Bb787F591b7c70642E1e1285109059f2eD0B9)
 
 ## Website
 - [GreenTree Official Website](https://greentree.team/)
