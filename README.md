@@ -24,8 +24,7 @@ Follow our news and updates:
 
 ## Donate us
 
-Help us by donation, This would help us to pay hosting bills and improve our projects.
-Thank you for donating us :)
+Help us by donation, This would help us to pay hosting bills and improve our development.
 
 - [Ethereum-Polygon](https://polygonscan.com/address/0xc53Bb787F591b7c70642E1e1285109059f2eD0B9)
 
