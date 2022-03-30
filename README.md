@@ -1,10 +1,9 @@
 # Welcome
 
 Hello there,
-Welcome to [GreenTreeTeam](https://github.com/GreenTreeTeam) Support.
+This is [GreenTreeTeam](https://github.com/GreenTreeTeam) Support.
 
 We provide support for our products on GitHub and Asset Store.
-We recommend to reach us via [Whatsapp](https://wa.me/message/5ODUV7GZGPIDP1) for requesting very urgent support.
 
 ## Submit an Issue
 
@@ -12,7 +11,7 @@ We recommend to reach us via [Whatsapp](https://wa.me/message/5ODUV7GZGPIDP1) fo
 
 ## Join Us
 
-Join our Community to get support, work with us and support open source:
+Join our Community to get support
 
 - [Join our Discord Server](https://discord.gg/TGk95ptrf2)
 
