@@ -9,9 +9,8 @@ We provide support for our products on GitHub and Asset Store.
 
 [File an issue here](https://github.com/GreenTreeTeam/Support/issues/new), but make sure the issue does not exists.
 
-## Join Us
+## Discord
 
-Join our Community to get support
 
 - [Join our Discord Server](https://discord.gg/TGk95ptrf2)
 
@@ -26,7 +25,7 @@ Follow our news and updates:
 ## Donate us
 
 Help us by donation, This would help us to pay hosting bills and improve our projects.
-We will really thank you for donating us :)
+Thank you for donating us :)
 
 - [Ethereum-Polygon](https://polygonscan.com/address/0xc53Bb787F591b7c70642E1e1285109059f2eD0B9)
 
